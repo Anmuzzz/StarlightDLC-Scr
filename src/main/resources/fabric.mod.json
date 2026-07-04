@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "isusdlc",
+  "version": "${version}",
+  "name": "StarlightDLC",
+  "description": "StarlightDLC Client",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/isusdlc/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.isusdlc.StarlightDLC"
+    ]
+  },
+  "mixins": [
+    "isusdlc.mixins.json"
+  ],
+  "accessWidener": "isusdlc.accesswidener",
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "minecraft": "${minecraft_version}",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

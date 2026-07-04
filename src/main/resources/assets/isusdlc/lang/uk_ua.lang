@@ -1,0 +1,525 @@
+
+modules.descriptions.auto_sprint=Автоматично вмикає спринт
+# Flight
+modules.descriptions.menu=Меню функцій клієнта
+modules.descriptions.ambience=Змінює оточення світу
+modules.descriptions.swing_animation=Змінює анімації рук при помаху
+modules.descriptions.sound_esp=Показує, де було відтворено звук тризуба або динаміту
+modules.descriptions.tnt_timer=Відображає час до вибуху динаміту
+modules.descriptions.view_model=Змінює позицію рук
+modules.descriptions.trap_esp=Підсвічує пастки
+modules.descriptions.world=Візуальні доповнення світу
+modules.descriptions.auto_invisible=Автоматично п'є зілля невидимості
+modules.descriptions.mine_helper=Допоміжні функції для шахти
+modules.descriptions.middle_click=Виконує дію при натисканні на коліщатко миші
+modules.descriptions.auto_eat=Автоматично їсть їжу при певному значенні голоду
+modules.descriptions.player_utils=Допоміжні функції для гравця
+modules.descriptions.item_pickup=Повідомляє вас при піднятті донатного предмета
+modules.descriptions.object_info=Показує інформацію про пастки та пласти у світі
+modules.descriptions.hit_sound=Відтворює звук при ударі по істоті
+modules.descriptions.item_highlighter=Підсвічування предметів в інвентарі та хотбарі
+
+# Hit Sound
+modules.settings.hit_sound.only_critical=Тільки крит
+modules.settings.hit_sound.only_critical.description=Відтворювати звук тільки при критичних ударах
+modules.settings.hit_sound.sound=Звук
+modules.settings.hit_sound.volume=Гучність
+modules.settings.hit_sound.volume.description=Гучність звуку удару
+modules.settings.hit_sound.pitch=Висота
+modules.settings.hit_sound.pitch.description=Висота тону звуку
+
+# Item Highlighter
+modules.settings.item_highlighter.items=Предмети
+
+modules.descriptions.name_protect=Візуально змінює нік гравця
+modules.descriptions.elytra_utils=Допоміжні функції для елітр
+modules.descriptions.auto_accept=Автоматично приймає телепортацію
+modules.descriptions.death_cords=Надсилає координати смерті в чат
+modules.descriptions.auto_swap=Автоматично замінює предмети в лівій руці
+modules.descriptions.auto_join=Автоматично заходить на режим
+modules.descriptions.sounds=Додає клієнту звуки
+modules.descriptions.kill_effects=Красивий ефект при смерті сутностей
+modules.descriptions.friend_markers=Візуально позначає друзів
+
+# Target ESP
+modules.descriptions.target_esp=Позначає активну ціль
+modules.settings.target_esp.mode=Режим
+modules.settings.target_esp.mode.souls=Душі
+modules.settings.target_esp.mode.crystals=Кристали
+modules.settings.target_esp.mode.chains=Ланцюги
+modules.settings.target_esp.mode.circles=Кола
+modules.settings.target_esp.mode.marker=Маркер
+modules.settings.target_esp.mode.ring=Кільце
+modules.settings.target_esp.mode.pigs=Свині
+modules.settings.target_esp.change_color_on_damage=Змінювати колір при ушкодженні
+modules.settings.target_esp.speed=Швидкість
+modules.settings.target_esp.size=Розмір
+modules.settings.target_esp.particle_count=Кількість частинок
+modules.settings.target_esp.particle_thickness=Товщина частинок
+
+# Particles
+modules.descriptions.particles=Падаючі частинки навколо гравця
+modules.settings.particles.amount=Кількість
+modules.settings.particles.size=Розмір частинок
+modules.settings.particles.animate_colors=Анімація кольорів
+modules.settings.particles.type=Тип частинок
+modules.settings.particles.type.stars=Зірки
+modules.settings.particles.type.snow=Сніг
+modules.settings.particles.type.dollars=Долари
+
+# Friend Markers
+modules.settings.friends_markers.setting=Режим
+modules.settings.friends_markers.heads=Голова
+
+# Interface
+modules.descriptions.interface=Елементи iнтерфейсу чiта
+modules.settings.interface.liquidGlass=Рiдке скло
+modules.settings.interface.minimalism=Мiнiмалiзм
+modules.settings.interface.language=Мова
+modules.settings.interface.mode=Стиль
+modules.settings.interface.theme=Тема
+modules.settings.interface.dark=Темна
+modules.settings.interface.light=Світла
+
+# Removals
+modules.descriptions.removals=Видаляє різні елементи гри
+modules.settings.removals.effects=Прибирати
+modules.settings.removals.hurtCam=Тряску пiд час урону
+modules.settings.removals.scoreboard=Скорборд
+modules.settings.removals.bossBar=Боссбар
+modules.settings.removals.portal=Ефект у порталi
+modules.settings.removals.fire=Огонь
+modules.settings.removals.clip=Камероу клип
+modules.settings.removals.water=Затемнення уваз водiй
+modules.settings.removals.pumpkin=Затемнення вiд гарбуз
+modules.settings.removals.fov=Динамiчний FOV
+modules.settings.removals.breakParticles=Частинки блоків
+modules.settings.removals.weather=Частинки погоди
+
+modules.settings.removals.sounds=Прибирати звуки
+modules.settings.removals.beacon=Маяка
+modules.settings.removals.weatherSound=Погоди
+modules.settings.removals.phantoms=Фантоми
+
+modules.settings.noslow.mode=Mode
+modules.settings.noslow.grim=Grim
+modules.settings.noslow.spooky=SpookyTime
+modules.settings.noslow.holly=HolyWorld
+
+# CustomFog
+modules.descriptions.custom_fog=Налаштування туману
+modules.settings.custom_fog.distance=Від/до
+modules.settings.custom_fog.distance.description=Налаштовує початок і кінець туману
+modules.settings.custom_fog.color=Колір туману
+
+# AspectRatio
+modules.descriptions.aspect_ratio=Змінює співвідношення сторін екрану
+modules.settings.aspect_ratio.ratio=Співвідношення сторін
+
+# CustomHitBox
+modules.descriptions.custom_hitbox=Показує хітбокси сутностей
+modules.settings.custom_hitbox.fill=Заливка
+modules.settings.custom_hitbox.color=Колір хітбоксу
+modules.settings.custom_hitbox.show_eye_height=Показати висоту очей
+modules.settings.custom_hitbox.show_look_vector=Показати вектор погляду
+
+# Predictions
+modules.descriptions.prediction=Відображає траєкторію польоту ендер-перлів, тризубів тощо.
+
+modules.settings.prediction.entities=Відображати
+modules.settings.prediction.entities.pearls=Ендер-перли
+modules.settings.prediction.entities.tridents=Тризуби
+modules.settings.prediction.entities.arrows=Стріли
+modules.settings.prediction.entities.snowballs=Сніжки
+modules.settings.prediction.entities.potions=Зілля
+modules.settings.prediction.entities.items=Предмети
+modules.settings.prediction.render_mode=Режим
+modules.settings.prediction.render_mode.default=Звичайний
+modules.settings.prediction.render_mode.glow=Світіння
+modules.settings.prediction.hand=В руці
+modules.settings.prediction.walls=Через стіни
+modules.settings.prediction.hud=Попадання у вас
+modules.settings.prediction.hud.description=Відображає напис на екрані, коли у вас летить тризуб, стріла тощо
+
+# -------- худ --------
+
+# > Эффекты
+
+# > Броня
+
+# > ArmorHud
+
+# > Динамічний Острів
+
+# > Інвентар
+
+# > Хотбар
+hud.hotbar=Хотбар
+
+remove=Видалити
+actions=Дії
+settings=Налаштування
+enabled=увімкнено
+disabled=вимкнено
+
+# цели
+players=Гравці
+animals=Тварини
+mobs=Моби
+invisibles=Невидимки
+friends=Друзі
+
+# суфікси слайдерів
+slot=слот
+sec=сек
+block=блок
+
+# мейнменю
+mainmenu.next=Клікніть для продовження
+
+# Дні тижня
+time.days.monday=Понеділок
+time.days.tuesday=Вівторок
+time.days.wednesday=Середа
+time.days.thursday=Четвер
+time.days.friday=П'ятниця
+time.days.saturday=Субота
+time.days.sunday=Неділя
+
+# Місяці (в родовому відмінку)
+time.months.january=січня
+time.months.february=лютого
+time.months.march=березня
+time.months.april=квітня
+time.months.may=травня
+time.months.june=червня
+time.months.july=липня
+time.months.august=серпня
+time.months.september=вересня
+time.months.october=жовтня
+time.months.november=листопада
+time.months.december=грудня
+
+type_text=Введіть текст
+setting_of=з
+
+# Колорпикер
+colorpicker.opacity=Прозорість
+colorpicker.click_to_sample=Натисніть, щоб вибрати колір
+
+# Поиск
+search.tooltip=Щоб відкрити пошук, натисніть Ctrl + F
+search.tooltip.tab=Tab - Відкрити налаштування
+search.tooltip.enter=Enter - Увімкнути/Вимкнути
+
+# меню
+menu.binding=Натисніть будь-яку клавішу
+
+configs.loaded=Конфіг успішно завантажено
+chat.connection_warning=Ви підключилися до сервера %s з версії %s. Можливо, варто змінити версію клієнта на більш підходящу для коректної роботи.
+
+# > Масова локалізація
+friend=Друг
+enemy=Ворог
+copy=Скопіювати
+
+# Пресеты
+
+coords=Координати
+server=Сервер
+speed=Швидкість
+hud.player.speedY=Швидкість по Y
+hud.player=Гравець
+hud.world=Світ
+hud.world.compact_server=Скоротити сервер
+
+color=Колір
+
+delay=Затримка
+mode=Режим
+size=Розмір
+
+elements=Елементи
+
+# NameProtect
+modules.settings.name_protect.fake_name=Фейкове ім'я
+
+health=Здоров'я
+key=Клавіша
+
+# AutoAuth
+
+# AutoPilot
+
+# Cat
+
+# Config
+commands.config.description=Керування конфігами
+commands.config.invalid_action=Невідома дія!
+commands.config.saved=Конфіг %s збережено!
+
+# FakePlayer
+
+# Friends
+commands.friends.description=Керування друзями
+commands.friends.target=Ти не можеш зробити таргета другом!
+commands.friends.added=Гравець %s доданий у друзі!
+commands.friends.removed=Гравець %s видалений із друзів!
+commands.friends.exists=Гравець %s вже у списку друзів!
+commands.friends.self=Не можна додати себе в друзі!
+commands.friends.not_exists=Гравця %s не знайдено у списку друзів!
+commands.friends.list=Список друзів:
+commands.friends.empty=Список друзів порожній :(
+
+# Help
+commands.help.description=Показує список команд
+
+# Inventory
+
+# Prefix
+
+# ReHub
+
+# Toggle
+
+# Vclip
+
+# Target
+commands.target.friend_error=Ви не можете додати друга в таргети!
+commands.target.already_exists=Таргет %s вже є в списку
+commands.target.self_error=Ви не можете таргетити себе
+commands.target.added=Таргет %s додано
+commands.target.not_found=Таргета з ніком %s не знайдено!
+commands.target.removed=Таргет %s видалено
+commands.target.cleared=Список таргетів очищено!
+commands.target.empty=Список таргетів порожній!
+commands.target.list_header=Список таргетів:
+commands.target.list_entry=[%s] %s
+
+# Auto Farm
+modules.auto_farm.screen.select_section_ft=● Виберіть секцію
+modules.auto_farm.screen.select_section=● Вибери секцію
+modules.auto_farm.screen.food_seller=Скупник їжі
+
+# Auto Swap
+modules.settings.auto_swap.button=Кнопка
+modules.settings.auto_swap.item=Предмет
+modules.settings.auto_swap.item.talisman=Талісман
+modules.settings.auto_swap.item.orb=Сфера
+modules.settings.auto_swap.swap_to=Свопати на
+modules.settings.auto_swap.swap_to.talisman=Талісман
+modules.settings.auto_swap.swap_to.orb=Сфера
+
+# Auto Eat
+modules.settings.auto_eat.food=Рівень голоду
+modules.settings.auto_eat.food.description=За якого значення голоду починати їсти
+
+# Auto Leave
+modules.auto_leave.near_player=Поруч гравець!
+modules.auto_leave.low_health=Мало здоров'я!
+modules.auto_leave.banned_word=забанений
+
+# Waypoints
+modules.descriptions.waypoints=Відображає мітки у світі
+modules.waypoints.base_name=Мітка
+modules.waypoints.player_removed=Мітку на гравцеві %s видалено, оскільки він недоступний
+modules.waypoints.exists=Мітка "%s" вже існує
+modules.waypoints.added=Додано мітку "%s" на %d, %d, %d
+modules.waypoints.deleted=Видалено мітку "%s"
+modules.waypoints.not_found=Мітку "%s" не знайдено
+modules.waypoints.cleared=Усі мітки видалено
+
+# Trap ESP
+modules.trap_esp.label=Трапка
+modules.trap_esp.depth=Глибина %s блоків
+modules.trap_esp.private=Приват
+modules.trap_esp.no_private=Без привату
+
+# TNT Timer
+modules.tnt_timer.format=%%.1f с
+
+# Ambience
+modules.settings.ambience.end_sky=Змінювати небо
+modules.settings.ambience.custom_time=Змінювати час
+modules.settings.ambience.time=Час
+modules.settings.ambience.bright=Увімкнути яскравість
+
+# Menu
+modules.settings.menu.mode=Режим
+modules.settings.menu.mode.dropdown=Панелі
+modules.settings.menu.mode.modern=Новий
+
+# View Model
+modules.settings.view_model.main_translate_x=Праве зміщення X
+modules.settings.view_model.main_translate_y=Праве зміщення Y
+modules.settings.view_model.main_translate_z=Праве зміщення Z
+modules.settings.view_model.main_rotate_x=Праве обертання X
+modules.settings.view_model.main_rotate_y=Праве обертання Y
+modules.settings.view_model.main_rotate_z=Праве обертання Z
+modules.settings.view_model.off_translate_x=Ліве зміщення X
+modules.settings.view_model.off_translate_y=Ліве зміщення Y
+modules.settings.view_model.off_translate_z=Ліве зміщення Z
+modules.settings.view_model.off_rotate_x=Ліве обертання X
+modules.settings.view_model.off_rotate_y=Ліве обертання Y
+modules.settings.view_model.off_rotate_z=Ліве обертання Z
+
+# Kill Effects
+modules.settings.kill_effects.color=Колір
+
+# Hit Effect
+modules.descriptions.hiteffect=Світлова хвиля з блоків при ударі
+modules.settings.hiteffect.color=Колір удару
+modules.settings.hiteffect.totem_color=Колір тотему
+modules.settings.hiteffect.sync_with_theme=Синх. з темою
+
+# Freelook
+modules.descriptions.freelook=Вільний огляд камери від третьої особи
+
+# Zoom
+modules.descriptions.zoom=Наближає як в OptiFine
+modules.settings.zoom.key=Клавіша зуму
+modules.settings.zoom.level=Рівень зуму
+modules.settings.zoom.smooth=Плавний зум
+modules.settings.zoom.smooth_speed=Швидкість плавності
+
+# Chinahat
+modules.descriptions.chinahat=Китайський капелюх над головою
+modules.settings.chinahat.height_offset=Зміщення по висоті
+modules.settings.chinahat.width=Ширина
+modules.settings.chinahat.height=Висота
+modules.settings.chinahat.color=Колір
+modules.settings.chinahat.alpha=Прозорість
+modules.settings.chinahat.sync_with_theme=Синх. з темою
+
+## Кнопки в инвентаре
+
+
+# Block Overlay
+modules.descriptions.blockoverlay=Підсвічує блок на який ви дивитесь
+modules.settings.blockoverlay.sync_with_theme=Синх. з темою
+modules.settings.blockoverlay.color=Колір підсвітки
+
+# Custom Fog
+modules.settings.custom_fog.sync_with_theme=Синх. з темою
+
+# Kill Effects
+modules.settings.kill_effects.sync_with_theme=Синх. з темою
+
+# Target ESP
+modules.settings.target_esp.sync_with_theme=Синх. з темою
+modules.settings.target_esp.color=Колір
+
+# World
+modules.settings.world.sync_with_theme=Синх. з темою
+modules.settings.world.color=Колір
+
+# Hit Effect
+modules.descriptions.hiteffect=Світлова хвиля з блоків при ударі
+modules.settings.hiteffect.color=Колір удару
+modules.settings.hiteffect.totem_color=Колір тотему
+modules.settings.hiteffect.sync_with_theme=Синх. з темою
+
+# > Watermark
+hud.watermark=Водяний знак
+hud.watermark.show_role=Показувати роль
+hud.watermark.show_tps=Показувати пінг
+hud.watermark.show_fps=Показувати FPS
+hud.watermark.show_ip=Показувати IP сервера
+
+# > Effects
+hud.effects=Ефекти
+hud.effects.alert=Сповіщення про закінчення
+
+# > Armor
+hud.armor=Броня
+
+# > TargetHud
+hud.targethud=Ціль
+hud.targethud.look=При наведенні
+hud.targethud.armor=Відображення броні
+hud.targethud.armor.none=Не відображати
+hud.targethud.armor.number=Відсотки міцності
+hud.targethud.armor.icon=Іконки
+
+# > Keybinds
+hud.keybinds=Клавіші
+hud.always_display=Показувати завжди
+hud.show_example=Показувати приклад
+
+# > Dynamic Island
+hud.dynamic_island=Динамічний Острів
+hud.dynamic_island.statuses=Статуси
+hud.dynamic_island.statuses.alerts=Сповіщення
+hud.dynamic_island.statuses.pvp=PVP-Режим
+hud.dynamic_island.statuses.events=Події
+hud.dynamic_island.statuses.mine=Шахта
+hud.dynamic_island.statuses.music=Музика
+hud.dynamic_island.statuses.default=Ватермарка
+
+# > Inventory
+hud.inventory=Інвентар
+
+# > Hotbar
+hud.hotbar=Хотбар
+
+# Додаткові модулі
+modules.descriptions.debug_shift=Виправляє переривання використання предмета при натисканні Shift
+modules.descriptions.particle_effects=Кастомні партикли для різних подій
+modules.descriptions.sound_esp=Показує де було відтворено звук
+modules.descriptions.coord_invite=Надсилає координати гравцеві через клавішу
+modules.descriptions.spec_bind=Надсилає команду !Спек з вашим ніком у чат через клавішу
+modules.descriptions.assist=Помічник для різних серверів
+modules.descriptions.tape_mouse=Стрічка миші
+
+# Налаштування модулів з хардкодом
+modules.settings.shifttap.interval.description=Як довго тримати shift у тіках
+modules.settings.invutils.item_scroller=Прокрутка предметів
+modules.settings.invutils.slot_lock=Блокування слотів
+modules.settings.custom_hitbox.entity_types.items=Предмети
+modules.settings.custom_hitbox.fill=Заливка
+modules.settings.custom_hitbox.show_eye_height=Показати висоту очей
+modules.settings.custom_hitbox.show_look_vector=Показати вектор погляду
+modules.settings.interface.themeMode=Режим теми
+
+# AspectRatio
+modules.descriptions.aspect_ratio=Змінює співвідношення сторін екрану
+modules.settings.aspect_ratio.ratio=Співвідношення сторін
+
+# TotemTracker
+modules.descriptions.totem_tracker=Відображає спрацювання тотемів у чаті
+
+# CustomHitBox entity types
+modules.settings.custom_hitbox.entity_types=Типи сутностей
+modules.settings.custom_hitbox.entity_types.players=Гравці
+modules.settings.custom_hitbox.entity_types.mobs=Моби
+
+# Inventory Utils
+modules.settings.invutils.delay=Затримка
+
+# Chinahat
+modules.settings.chinahat.height_offset=Зміщення по висоті
+modules.settings.chinahat.width=Ширина
+modules.settings.chinahat.height=Висота
+modules.settings.chinahat.color=Колір
+modules.settings.chinahat.alpha=Прозорість
+
+# Interface colors
+modules.settings.interface.minimalism.mainColor=Основний колір мінімалізму
+modules.settings.interface.liquidGlass.glassColor=Колір скла
+modules.settings.interface.liquidGlass.clientColor=Колір клієнта
+modules.settings.interface.blurStrength=Сила розмиття
+modules.settings.interface.liquidGlass.distortion=Спотворення
+
+# Color mode settings
+modules.settings.color_mode=Режим кольору
+modules.settings.color_mode.client=Колір клієнта
+modules.settings.color_mode.custom=Свій колір
+
+# Kill Effects
+modules.settings.kill_effects.color_mode=Режим кольору
+modules.settings.kill_effects.color_mode.client=Колір клієнта
+modules.settings.kill_effects.color_mode.custom=Свій колір
+modules.settings.kill_effects.play_sound=Відтворювати звук
+modules.settings.kill_effects.volume=Гучність
+modules.settings.kill_effects.mobs=Ефекти для мобів
+modules.settings.kill_effects.sound_type=Тип звуку
